@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "title": "Personal Website - Professional Services",
+    "description": "Providing high-quality professional services including technical consulting and project development",
+    "keywords": "personal website, technical services, project development, technical consulting"
+  },
+  "navigation": {
+    "brand": "Personal Website",
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Professional Technical Services",
+      "subtitle": "Providing high-quality web development, design and technical consulting services",
+      "description": "Professional team with years of experience, committed to creating value for clients and providing innovative technical solutions",
+      "viewServices": "View Services",
+      "contactUs": "Contact Us"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Providing comprehensive technical solutions for you",
+      "webDevelopment": {
+        "title": "Web Development",
+        "description": "Develop high-performance, responsive websites and applications using the latest technology stack",
+        "features": ["React/Next.js", "TypeScript", "Node.js"]
+      },
+      "uiUxDesign": {
+        "title": "UI/UX Design",
+        "description": "Create beautiful, intuitive user interfaces and excellent user experiences",
+        "features": ["Figma", "Adobe XD", "Prototyping"]
+      },
+      "dataAnalytics": {
+        "title": "Data Analytics",
+        "description": "In-depth data analysis, providing valuable business insights and optimization recommendations",
+        "features": ["Google Analytics", "Data Visualization", "A/B Testing"]
+      },
+      "techConsulting": {
+        "title": "Technical Consulting",
+        "description": "Provide professional technical consulting and solutions to help business development",
+        "features": ["Architecture Design", "Technology Selection", "Performance Optimization"]
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let us provide you with professional technical solutions",
+      "button": "Get Started"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "Providing comprehensive technical solutions to help business success"
+    },
+    "section": {
+      "title": "Professional Services",
+      "subtitle": "From design to development, from analysis to optimization, we provide one-stop services"
+    },
+    "webDevelopment": {
+      "title": "Web Development",
+      "description": "Develop high-performance, responsive websites and applications using the latest technology stack",
+      "features": ["React/Next.js", "TypeScript", "Node.js", "Database Design", "API Development"]
+    },
+    "uiUxDesign": {
+      "title": "UI/UX Design",
+      "description": "Create beautiful, intuitive user interfaces and excellent user experiences",
+      "features": ["Figma", "Adobe XD", "Prototyping", "User Research", "Interaction Design"]
+    },
+    "dataAnalytics": {
+      "title": "Data Analytics",
+      "description": "In-depth data analysis, providing valuable business insights and optimization recommendations",
+      "features": ["Google Analytics", "Data Visualization", "A/B Testing", "User Behavior Analysis"]
+    },
+    "techConsulting": {
+      "title": "Technical Consulting",
+      "description": "Provide professional technical consulting and solutions to help business development",
+      "features": ["Architecture Design", "Technology Selection", "Performance Optimization", "Security Audit"]
+    },
+    "learnMore": "Learn More",
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Contact our professional team to provide you with the most suitable solutions",
+      "button": "Get Started"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "title": "Transparent Pricing",
+      "subtitle": "Choose the package that best suits your needs, we provide flexible pricing plans"
+    },
+    "section": {
+      "title": "Service Packages",
+      "subtitle": "Choose the appropriate package based on project scale and requirements"
+    },
+    "basic": {
+      "name": "Basic Package",
+      "price": "$299",
+      "period": "/project",
+      "description": "Suitable for small projects and personal needs",
+      "features": [
+        "Responsive Website Design",
+        "Basic SEO Optimization",
+        "Mobile Adaptation",
+        "3 Months Technical Support",
+        "Domain and Hosting Configuration"
+      ]
+    },
+    "professional": {
+      "name": "Professional Package",
+      "price": "$899",
+      "period": "/project",
+      "description": "Suitable for medium-sized enterprises and startups",
+      "features": [
+        "Complete Website Development",
+        "Advanced SEO Optimization",
+        "Content Management System",
+        "6 Months Technical Support",
+        "Performance Optimization",
+        "Security Configuration",
+        "Data Backup"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise Package",
+      "price": "$1,999",
+      "period": "/project",
+      "description": "Suitable for large enterprises and complex projects",
+      "features": [
+        "Custom Development",
+        "Advanced Feature Integration",
+        "API Development",
+        "12 Months Technical Support",
+        "Performance Monitoring",
+        "Security Audit",
+        "Training Services",
+        "Priority Response"
+      ]
+    },
+    "popular": "Most Popular",
+    "selectPlan": "Select Plan",
+    "cta": {
+      "title": "Need Custom Solutions?",
+      "subtitle": "Contact our professional team to tailor the most suitable solutions for you",
+      "button": "Free Consultation"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "We are always ready to provide professional technical consulting and services"
+    },
+    "form": {
+      "title": "Send Message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "sendButton": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": {
+        "title": "Email",
+        "value": "contact@example.com"
+      },
+      "phone": {
+        "title": "Phone",
+        "value": "+86 138 0000 0000"
+      },
+      "address": {
+        "title": "Address",
+        "value": "Beijing, China"
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Contact our professional team to provide you with the most suitable solutions",
+      "button": "Get Started"
+    }
+  }
+} 

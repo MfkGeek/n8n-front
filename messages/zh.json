@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "title": "个人网站 - 专业服务",
+    "description": "提供高质量的专业服务，包括技术咨询、项目开发等",
+    "keywords": "个人网站, 技术服务, 项目开发, 技术咨询"
+  },
+  "navigation": {
+    "brand": "个人网站",
+    "home": "首页",
+    "services": "服务",
+    "pricing": "价格",
+    "contact": "联系"
+  },
+  "home": {
+    "hero": {
+      "title": "专业的技术服务",
+      "subtitle": "为您提供高质量的 Web 开发、设计和技术咨询服务",
+      "description": "拥有多年经验的专业团队，致力于为客户创造价值，提供创新的技术解决方案",
+      "viewServices": "查看服务",
+      "contactUs": "联系我们"
+    },
+    "services": {
+      "title": "我们的服务",
+      "subtitle": "为您提供全方位的技术解决方案",
+      "webDevelopment": {
+        "title": "Web 开发",
+        "description": "使用最新技术栈开发高性能、响应式的网站和应用程序",
+        "features": ["React/Next.js", "TypeScript", "Node.js"]
+      },
+      "uiUxDesign": {
+        "title": "UI/UX 设计",
+        "description": "创建美观、直观的用户界面和优秀的用户体验",
+        "features": ["Figma", "Adobe XD", "原型设计"]
+      },
+      "dataAnalytics": {
+        "title": "数据分析",
+        "description": "深入分析数据，提供有价值的业务洞察和优化建议",
+        "features": ["Google Analytics", "数据可视化", "A/B 测试"]
+      },
+      "techConsulting": {
+        "title": "技术咨询",
+        "description": "提供专业的技术咨询和解决方案，助力业务发展",
+        "features": ["架构设计", "技术选型", "性能优化"]
+      }
+    },
+    "cta": {
+      "title": "准备开始您的项目？",
+      "subtitle": "让我们为您提供专业的技术解决方案",
+      "button": "立即咨询"
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "我们的服务",
+      "subtitle": "为您提供全方位的技术解决方案，助力业务成功"
+    },
+    "section": {
+      "title": "专业服务",
+      "subtitle": "从设计到开发，从分析到优化，我们提供一站式服务"
+    },
+    "webDevelopment": {
+      "title": "Web 开发",
+      "description": "使用最新技术栈开发高性能、响应式的网站和应用程序",
+      "features": ["React/Next.js", "TypeScript", "Node.js", "数据库设计", "API 开发"]
+    },
+    "uiUxDesign": {
+      "title": "UI/UX 设计",
+      "description": "创建美观、直观的用户界面和优秀的用户体验",
+      "features": ["Figma", "Adobe XD", "原型设计", "用户研究", "交互设计"]
+    },
+    "dataAnalytics": {
+      "title": "数据分析",
+      "description": "深入分析数据，提供有价值的业务洞察和优化建议",
+      "features": ["Google Analytics", "数据可视化", "A/B 测试", "用户行为分析"]
+    },
+    "techConsulting": {
+      "title": "技术咨询",
+      "description": "提供专业的技术咨询和解决方案，助力业务发展",
+      "features": ["架构设计", "技术选型", "性能优化", "安全审计"]
+    },
+    "learnMore": "了解详情",
+    "cta": {
+      "title": "准备开始您的项目？",
+      "subtitle": "联系我们的专业团队，为您提供最适合的解决方案",
+      "button": "立即咨询"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "title": "透明定价",
+      "subtitle": "选择最适合您需求的套餐，我们提供灵活的定价方案"
+    },
+    "section": {
+      "title": "服务套餐",
+      "subtitle": "根据项目规模和需求选择合适的套餐"
+    },
+    "basic": {
+      "name": "基础套餐",
+      "price": "¥2,999",
+      "period": "/项目",
+      "description": "适合小型项目和个人需求",
+      "features": [
+        "响应式网站设计",
+        "基础 SEO 优化",
+        "移动端适配",
+        "3个月技术支持",
+        "域名和主机配置"
+      ]
+    },
+    "professional": {
+      "name": "专业套餐",
+      "price": "¥8,999",
+      "period": "/项目",
+      "description": "适合中型企业和创业公司",
+      "features": [
+        "完整网站开发",
+        "高级 SEO 优化",
+        "内容管理系统",
+        "6个月技术支持",
+        "性能优化",
+        "安全配置",
+        "数据备份"
+      ]
+    },
+    "enterprise": {
+      "name": "企业套餐",
+      "price": "¥19,999",
+      "period": "/项目",
+      "description": "适合大型企业和复杂项目",
+      "features": [
+        "定制化开发",
+        "高级功能集成",
+        "API 开发",
+        "12个月技术支持",
+        "性能监控",
+        "安全审计",
+        "培训服务",
+        "优先响应"
+      ]
+    },
+    "popular": "最受欢迎",
+    "selectPlan": "选择套餐",
+    "cta": {
+      "title": "需要定制化方案？",
+      "subtitle": "联系我们的专业团队，为您量身定制最适合的解决方案",
+      "button": "免费咨询"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "联系我们",
+      "subtitle": "我们随时为您提供专业的技术咨询和服务"
+    },
+    "form": {
+      "title": "发送消息",
+      "name": "姓名",
+      "email": "邮箱",
+      "subject": "主题",
+      "message": "消息内容",
+      "sendButton": "发送消息"
+    },
+    "info": {
+      "title": "联系信息",
+      "email": {
+        "title": "邮箱",
+        "value": "contact@example.com"
+      },
+      "phone": {
+        "title": "电话",
+        "value": "+86 138 0000 0000"
+      },
+      "address": {
+        "title": "地址",
+        "value": "北京市朝阳区xxx街道xxx号"
+      }
+    },
+    "cta": {
+      "title": "准备开始您的项目？",
+      "subtitle": "联系我们的专业团队，为您提供最适合的解决方案",
+      "button": "立即咨询"
+    }
+  }
+} 
