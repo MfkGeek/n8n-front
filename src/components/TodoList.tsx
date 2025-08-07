@@ -21,13 +21,13 @@ interface TodoItem {
   dueDate: string;
 }
 
-const statusColors = {
+const statusColors: Record<string, any> = {
   pending: 'default',
   'in-progress': 'primary',
   completed: 'success'
 };
 
-const priorityColors = {
+const priorityColors: Record<string, any> = {
   low: 'success',
   medium: 'warning',
   high: 'error'
