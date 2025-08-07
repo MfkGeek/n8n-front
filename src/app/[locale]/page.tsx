@@ -16,6 +16,7 @@ import {
   Support
 } from '@mui/icons-material';
 import Navigation from '../../components/Navigation';
+import TodoList from '../../components/TodoList';
 import { useTranslations } from 'next-intl';
 
 export default function Home() {
@@ -182,6 +183,11 @@ export default function Home() {
           </Box>
         </Container>
       </Box>
+
+      {/* Todo List Section */}
+      <Container maxWidth="lg" sx={{ py: 8 }}>
+        <TodoList />
+      </Container>
     </Box>
   );
 } 

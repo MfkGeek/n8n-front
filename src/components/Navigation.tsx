@@ -23,17 +23,18 @@ export default function Navigation() {
   };
 
   const handleLanguageChange = (newLocale: string) => {
-    // 移除当前语言前缀，获取路径
-    const pathWithoutLocale = pathname.replace(`/${locale}`, '') || '/';
+    // 移除当前语言前缀，获取不带语言的路径
+    const pathWithoutLocale = pathname.replace(/^\/(zh|en)/, '') || '/';
     // 构建新的路径
-    const newPath = `/${newLocale}`;
+    const newPath = `/${newLocale}${pathWithoutLocale}`;
     router.push(newPath);
     handleLanguageClose();
   };
 
   const getLocalizedPath = (path: string) => {
-    const pathWithoutLocale = pathname.replace(`/${locale}`, '') || '/';
-    return `/${locale}${path}`;
+    // 确保路径以 / 开头
+    const normalizedPath = path.startsWith('/') ? path : `/${path}`;
+    return normalizedPath;
   };
 
   return (
